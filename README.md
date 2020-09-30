@@ -45,7 +45,7 @@ http://scripts.sil.org/OFL
 
 #### Setup
 
-To run any of the commands, you need to generate the virtual environment (venv) and install dependencies. It will generate a `venv` folder
+To run any of the commands, you need to generate the virtual environment (venv) and install dependencies. It will generate a `venv` folder with all dependencies
 
 ```bash
 python3 -m venv venv
@@ -56,4 +56,6 @@ pip install -r requirements.txt
 
 #### Build ufos and generate fonts
 
-To build the fonts open the file `sources/build.sh`
+To build the fonts open the file `sources/build.sh` or run in terminal
+
+    . sources/build.sh
