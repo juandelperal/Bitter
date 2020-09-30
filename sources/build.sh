@@ -7,6 +7,8 @@ DIR=$( cd -P "$( dirname "$SOURCE" )" >/dev/null 2>&1 && pwd )
 cd $DIR
 echo $(pwd)
 
+echo "Set venv"
+. ../venv/bin/activate
 
 echo "Generating Static fonts"
 mkdir -p ../fonts
@@ -65,8 +67,8 @@ do
 	# gftools fix-hinting $vf;
 	gftools fix-nonhinting $vf $vf;
 	if [ -f "$vf.fix" ]; then mv "$vf.fix" $vf; fi
-	
-	
+
+
 done
 
 for ttf in $ttfs
