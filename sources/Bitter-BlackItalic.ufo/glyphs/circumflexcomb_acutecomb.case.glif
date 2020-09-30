@@ -11,20 +11,26 @@
     <contour>
       <point x="514.7096" y="859.8398" type="line"/>
       <point x="721.5475" y="993.7192" type="line"/>
-      <point x="646.8023000000001" y="1100.1903000000002" type="line"/>
-      <point x="455.24670000000003" y="941.1843" type="line"/>
+      <point x="646.8023" y="1100.1903" type="line"/>
+      <point x="455.2467" y="941.1843" type="line"/>
     </contour>
     <component base="circumflexcomb.case" xOffset="-3" yOffset="-20"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>circumflexcomb.case</string>
+        </dict>
+      </array>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>644</integer>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>-1</integer>
-        <integer>-1</integer>
-      </array>
     </dict>
   </lib>
 </glyph>

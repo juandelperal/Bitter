@@ -15,7 +15,7 @@
       <point x="124.9246" y="695.9252" type="line"/>
       <point x="307.9912" y="776.3474" type="line"/>
       <point x="292.9864" y="805.4668" type="line"/>
-      <point x="115.99560000000002" y="711.5872" type="line"/>
+      <point x="115.9956" y="711.5872" type="line"/>
     </contour>
     <component base="macron" xOffset="-1" yOffset="-50"/>
   </outline>

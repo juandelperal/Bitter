@@ -1541,7 +1541,7 @@
         <key>name</key>
         <string>propagateAnchors</string>
         <key>pre</key>
-        <true/>
+        <integer>1</integer>
       </dict>
       <dict>
         <key>name</key>
@@ -2000,12 +2000,10 @@
         <integer>193</integer>
       </dict>
     </dict>
-    <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
-    <string></string>
     <key>com.schriftgestaltung.customParameter.GSFont.Use Line Breaks</key>
     <integer>1</integer>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
-    <false/>
+    <true/>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
     <true/>
     <key>com.schriftgestaltung.customParameter.GSFont.useNiceNames</key>
@@ -2045,8 +2043,6 @@
     <string>927AED37-E9E6-4F96-A08E-421C3785EFC6</string>
     <key>com.schriftgestaltung.fontMasterOrder</key>
     <integer>1</integer>
-    <key>com.schriftgestaltung.glyphOrder</key>
-    <false/>
     <key>com.schriftgestaltung.keyboardIncrement</key>
     <integer>1</integer>
     <key>com.schriftgestaltung.weight</key>
@@ -2058,17 +2054,17 @@
     <key>com.schriftgestaltung.widthValue</key>
     <integer>100</integer>
     <key>com.typemytype.robofont.compileSettings.autohint</key>
-    <true/>
+    <integer>1</integer>
     <key>com.typemytype.robofont.compileSettings.checkOutlines</key>
-    <false/>
+    <integer>0</integer>
     <key>com.typemytype.robofont.compileSettings.createDummyDSIG</key>
-    <true/>
+    <integer>1</integer>
     <key>com.typemytype.robofont.compileSettings.decompose</key>
-    <false/>
+    <integer>0</integer>
     <key>com.typemytype.robofont.compileSettings.generateFormat</key>
     <integer>0</integer>
     <key>com.typemytype.robofont.compileSettings.releaseMode</key>
-    <false/>
+    <integer>0</integer>
     <key>com.typemytype.robofont.fontIdentifier</key>
     <string>RP-VIvyxYV7TSXYb82WWIBGwNWt0CzAQMH0_KIvkZ88</string>
     <key>com.typemytype.robofont.italicSlantOffset</key>
@@ -2455,7 +2451,6 @@
       <string>Shhadescender-cy</string>
       <string>EnLeftHook-cy</string>
       <string>Eldescender-cy</string>
-      <string>Tetse-cy.BRACKET.145</string>
       <string>Qa-cy.alt</string>
       <string>Iigrave-cy.loclBGR</string>
       <string>De-cy.loclBGR</string>
@@ -2730,9 +2725,6 @@
       <string>ytilde</string>
       <string>fi</string>
       <string>fl</string>
-      <string>dcroat.BRACKET.155</string>
-      <string>hbar.BRACKET.155</string>
-      <string>c_t.BRACKET.165</string>
       <string>f.alt</string>
       <string>germandbls.calt</string>
       <string>germandbls.calt.sc</string>
@@ -3506,10 +3498,6 @@
       <string>liraTurkish</string>
       <string>manat</string>
       <string>ruble</string>
-      <string>peseta.BRACKET.130</string>
-      <string>naira.BRACKET.70</string>
-      <string>won.BRACKET.70</string>
-      <string>peso.BRACKET.70</string>
       <string>asciicircum</string>
       <string>grave</string>
       <string>dieresis</string>
@@ -3600,7 +3588,6 @@
       <string>verticalbar-cy.case</string>
       <string>idotaccent.sc</string>
       <string>jacute.sc</string>
-      <string>curve</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
@@ -4021,7 +4008,7 @@
       <key>Tetse-cy</key>
       <string>uni04B4</string>
       <key>Tetse-cy.BRACKET.145</key>
-      <string>uni04B4.BRACKET.145</string>
+      <string>uni04B4</string>
       <key>Tlinebelow</key>
       <string>uni1E6E</string>
       <key>Tse-cy</key>
@@ -4711,7 +4698,7 @@
       <key>naira</key>
       <string>uni20A6</string>
       <key>naira.BRACKET.70</key>
-      <string>uni20A6.BRACKET.70</string>
+      <string>uni20A6</string>
       <key>nbspace</key>
       <string>uni00A0</string>
       <key>ncommaaccent</key>
@@ -4873,7 +4860,7 @@
       <key>peso</key>
       <string>uni20B1</string>
       <key>peso.BRACKET.70</key>
-      <string>uni20B1.BRACKET.70</string>
+      <string>uni20B1</string>
       <key>punctuationspace</key>
       <string>uni2008</string>
       <key>qa-cy</key>
@@ -5147,7 +5134,7 @@
       <key>won</key>
       <string>uni20A9</string>
       <key>won.BRACKET.70</key>
-      <string>uni20A9.BRACKET.70</string>
+      <string>uni20A9</string>
       <key>yat-cy</key>
       <string>uni0463</string>
       <key>ydotaccent</key>
@@ -5209,8 +5196,6 @@
       <key>zhedieresis-cy</key>
       <string>uni04DD</string>
     </dict>
-    <key>public.skipExportGlyphs</key>
-    <array/>
     <key>width</key>
     <integer>30</integer>
   </dict>

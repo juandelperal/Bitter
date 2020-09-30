@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>color</key>
-    <string>1,0.75,0,0.7</string>
     <key>lib</key>
     <dict>
       <key>com.schriftgestaltung.layerId</key>
@@ -1939,7 +1937,7 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.lslash.sc</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.m</key>
-      <integer>2</integer>
+      <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.m.sc</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.macron</key>
@@ -1981,7 +1979,7 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.multiply</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.n</key>
-      <integer>2</integer>
+      <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.n.sc</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.nacute</key>
@@ -2313,7 +2311,7 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.peseta</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.peso</key>
-      <integer>3</integer>
+      <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.pi</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.plus</key>

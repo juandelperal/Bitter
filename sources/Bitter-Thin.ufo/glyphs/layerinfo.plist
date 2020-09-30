@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>color</key>
-    <string>1,0.75,0,0.7</string>
     <key>lib</key>
     <dict>
       <key>com.schriftgestaltung.layerId</key>
@@ -1995,7 +1993,7 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.nacute.sc.loclPLK</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.naira</key>
-      <integer>3</integer>
+      <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.napostrophe</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.nbspace</key>
@@ -2893,7 +2891,7 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.whiteSquare</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.won</key>
-      <integer>3</integer>
+      <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.x</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.x.sc</key>

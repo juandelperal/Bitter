@@ -7,16 +7,22 @@
       <point x="119.9246" y="733.9252" type="line"/>
       <point x="302.9912" y="814.3474" type="line"/>
       <point x="287.9864" y="843.4668" type="line"/>
-      <point x="110.99560000000002" y="749.5872" type="line"/>
+      <point x="110.9956" y="749.5872" type="line"/>
     </contour>
     <component base="ringcomb" xOffset="39" yOffset="-43"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
-        <integer>-1</integer>
-        <integer>-1</integer>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ringcomb</string>
+        </dict>
       </array>
     </dict>
   </lib>

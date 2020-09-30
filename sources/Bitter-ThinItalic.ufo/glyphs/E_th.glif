@@ -9,7 +9,7 @@
     <contour>
       <point x="76.77436" y="345" type="line"/>
       <point x="378.19428" y="345" type="line"/>
-      <point x="381.29105999999996" y="364" type="line"/>
+      <point x="381.29106" y="364" type="line"/>
       <point x="79.87114" y="364" type="line"/>
     </contour>
     <component base="D"/>

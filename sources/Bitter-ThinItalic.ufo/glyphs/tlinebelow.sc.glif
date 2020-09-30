@@ -6,8 +6,8 @@
   <outline>
     <contour>
       <point x="288.63" y="-107" type="line"/>
-      <point x="65.41999999999999" y="-107" type="line"/>
-      <point x="62.389999999999986" y="-128" type="line"/>
+      <point x="65.42" y="-107" type="line"/>
+      <point x="62.39" y="-128" type="line"/>
       <point x="285.6" y="-128" type="line"/>
     </contour>
     <component base="t.sc"/>

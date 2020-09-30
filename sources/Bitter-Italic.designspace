@@ -90,6 +90,16 @@
               <integer>1</integer>
             </array>
           </array>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict/>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Thin</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
@@ -108,6 +118,16 @@
               <integer>1</integer>
             </array>
           </array>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict/>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>ExtraLight</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
@@ -126,10 +146,20 @@
               <integer>1</integer>
             </array>
           </array>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict/>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Light</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
-    <instance name="Bitter Italic" familyname="Bitter" stylename="Italic" filename="instance_ufos/Bitter-Italic.ufo" stylemapfamilyname="Bitter" stylemapstylename="italic">
+    <instance name="Bitter Italic" familyname="Bitter" stylename="Italic" filename="instance_ufos/Bitter-Italic.ufo">
       <location>
         <dimension name="Weight" xvalue="78"/>
       </location>
@@ -144,6 +174,16 @@
               <integer>1</integer>
             </array>
           </array>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict/>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Normal</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
@@ -162,6 +202,16 @@
               <integer>1</integer>
             </array>
           </array>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict/>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Medium</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
@@ -180,10 +230,20 @@
               <integer>1</integer>
             </array>
           </array>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict/>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>DemiBold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
-    <instance name="Bitter Bold Italic" familyname="Bitter" stylename="Bold Italic" filename="instance_ufos/Bitter-BoldItalic.ufo" stylemapfamilyname="Bitter" stylemapstylename="bold italic">
+    <instance name="Bitter Bold Italic" familyname="Bitter" stylename="Bold Italic" filename="instance_ufos/Bitter-BoldItalic.ufo">
       <location>
         <dimension name="Weight" xvalue="138"/>
       </location>
@@ -198,6 +258,16 @@
               <integer>1</integer>
             </array>
           </array>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict/>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Bold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
@@ -216,6 +286,16 @@
               <integer>1</integer>
             </array>
           </array>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict/>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>ExtraBold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
@@ -234,6 +314,16 @@
               <integer>1</integer>
             </array>
           </array>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict/>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Black</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>

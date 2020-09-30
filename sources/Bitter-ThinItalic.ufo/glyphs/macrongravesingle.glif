@@ -14,7 +14,7 @@
   <outline>
     <contour>
       <point x="386.9618" y="699.3124" type="line"/>
-      <point x="393.89560000000006" y="714.8348" type="line"/>
+      <point x="393.8956" y="714.8348" type="line"/>
       <point x="209.9914" y="807.2282" type="line"/>
       <point x="194.9168" y="779.1064" type="line"/>
     </contour>
@@ -22,10 +22,16 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
-        <integer>-1</integer>
-        <integer>-1</integer>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>macron</string>
+        </dict>
       </array>
     </dict>
   </lib>

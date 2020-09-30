@@ -8,8 +8,8 @@
   <outline>
     <contour>
       <point x="470.6812" y="858.0516" type="line"/>
-      <point x="554.1030000000001" y="928.0446000000001" type="line"/>
-      <point x="407.717" y="1113.5174000000002" type="line"/>
+      <point x="554.103" y="928.0446" type="line"/>
+      <point x="407.717" y="1113.5174" type="line"/>
       <point x="300.286" y="1021.534" type="line"/>
     </contour>
     <component base="circumflexcomb.case" xOffset="-4" yOffset="-20"/>
@@ -18,11 +18,6 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>566</integer>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>0</integer>
-        <integer>-1</integer>
-      </array>
     </dict>
   </lib>
 </glyph>

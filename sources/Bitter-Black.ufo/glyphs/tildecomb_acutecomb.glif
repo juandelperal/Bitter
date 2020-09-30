@@ -6,20 +6,26 @@
     <contour>
       <point x="111.7824" y="777.5928" type="line"/>
       <point x="397.6092" y="869.7444" type="line"/>
-      <point x="327.3888" y="1016.8416000000001" type="line"/>
-      <point x="64.1412" y="883.6283999999999" type="line"/>
+      <point x="327.3888" y="1016.8416" type="line"/>
+      <point x="64.1412" y="883.6284" type="line"/>
     </contour>
     <component base="tildecomb.case" xOffset="-2" yOffset="-200"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>tildecomb.case</string>
+        </dict>
+      </array>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>485</integer>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>-1</integer>
-        <integer>-1</integer>
-      </array>
     </dict>
   </lib>
 </glyph>

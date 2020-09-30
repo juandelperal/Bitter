@@ -6,8 +6,8 @@
   <outline>
     <contour>
       <point x="347.55" y="-107" type="line"/>
-      <point x="106.05000000000001" y="-107" type="line"/>
-      <point x="106.05000000000001" y="-128" type="line"/>
+      <point x="106.05" y="-107" type="line"/>
+      <point x="106.05" y="-128" type="line"/>
       <point x="347.55" y="-128" type="line"/>
     </contour>
   </outline>
@@ -15,10 +15,6 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>454</integer>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>1</integer>
-      </array>
     </dict>
   </lib>
 </glyph>
